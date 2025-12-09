@@ -1,4 +1,4 @@
-#	Étude d'une application pour la société (fictive) de transport - TRICE
+<p style="color: red;">#	Étude d'une application pour la société (fictive) de transport - TRICE</p>
 
 ## Résumé du projet 
 
