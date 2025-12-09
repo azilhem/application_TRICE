@@ -9,17 +9,17 @@ UML, LucidChart, Figma
 
 ## Travail réalisé :
 
-Analyse des besoins métier (MOA) et identification des exigences fonctionnelles (méthode MoSCoW)
+- Analyse des besoins métier (MOA) et identification des exigences fonctionnelles (méthode MoSCoW)
 
-Conception de l’architecture fonctionnelle de l’application
+- Conception de l’architecture fonctionnelle de l’application
 
-Réalisation des diagrammes UML : cas d’utilisation, activités, séquences, classes, états
+- Réalisation des diagrammes UML : cas d’utilisation, activités, séquences, classes, états
 
-Participation au planning, à la gestion du projet et à la répartition des rôles MOA/MOE
+- Participation au planning, à la gestion du projet et à la répartition des rôles MOA/MOE
 
-Conception de la maquette de l’application (UX/UI)
+- Conception de la maquette de l’application (UX/UI)
 
-Rédaction du rapport final et contribution à la soutenance
+- Rédaction du rapport final et contribution à la soutenance
 
 ## Compétences développées :
 Gestion de projet, communication, modélisation UML, analyse fonctionnelle, travail en équipe, organisation.
