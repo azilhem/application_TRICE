@@ -1,13 +1,13 @@
-## Etude d'une application pourla société TRICE - Modélisation Objet (UML)
+# Etude d'une application pourla société TRICE - Modélisation Objet (UML)
 
-# Résumé du projet :
+## Résumé du projet :
 
 Conception complète d’une application de transport pour la société TRICE dans le cadre d’un projet universitaire. Réalisation de l’analyse des besoins, modélisation UML, gestion de projet et création d’une maquette fonctionnelle.
 
-# Technologies & outils :
+## Technologies & outils :
 UML, LucidChart, Figma, GitHub, VSCode
 
-Travail réalisé :
+## Travail réalisé :
 
 Analyse des besoins métier (MOA) et identification des exigences fonctionnelles (méthode MoSCoW)
 
@@ -21,6 +21,6 @@ Conception de la maquette de l’application (UX/UI)
 
 Rédaction du rapport final et contribution à la soutenance
 
-Compétences développées :
+## Compétences développées :
 Gestion de projet, communication, modélisation UML, analyse fonctionnelle, travail en équipe, organisation
 
